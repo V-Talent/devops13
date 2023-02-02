@@ -1,11 +1,6 @@
 testing
 
-git testing file 
+git testing file
 
-<<<<<<< HEAD
 
-=======
 fetching test
-
-push example
->>>>>>> 99f531440e27b0b8ab13161f1607524a177503a1
